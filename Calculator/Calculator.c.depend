@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1597640475 source:c:\users\sirisha\dropbox\my pc (desktop-06hfoeb)\documents\codeblocks workspace\miniproject_template-master\example_programs\calculator\src\calculator.c
+	"calculator.h"
+
+1597640677 c:\users\sirisha\dropbox\my pc (desktop-06hfoeb)\documents\codeblocks workspace\miniproject_template-master\example_programs\calculator\inc\calculator.h
+
+1597476938 source:c:\users\sirisha\dropbox\my pc (desktop-06hfoeb)\documents\codeblocks workspace\miniproject_template-master\example_programs\calculator\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1597476938 c:\users\sirisha\dropbox\my pc (desktop-06hfoeb)\documents\codeblocks workspace\miniproject_template-master\example_programs\calculator\unity\unity.h
+	"unity_internals.h"
+
+1597476938 c:\users\sirisha\dropbox\my pc (desktop-06hfoeb)\documents\codeblocks workspace\miniproject_template-master\example_programs\calculator\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
